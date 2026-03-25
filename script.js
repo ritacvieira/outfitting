@@ -1,1 +1,1 @@
-console.log("Outfitting website loaded successfully.");
+console.log("Luxury satin vibe website loaded.");
