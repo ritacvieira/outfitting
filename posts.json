@@ -3,7 +3,7 @@
     "title": "The CUTEST clothes for fans of blue",
     "description": "Cozy light blue clothes with soft textures and dreamy tones. Perfect if you love pale blue knitwear, winter layering, and cute pieces that still feel elegant.",
     "images": [
-      "images/blueclothes.jpg",
+      "images/blueclothes.jpg"
     ],
     "links": [
       {
@@ -18,18 +18,9 @@
         "label": "Blue lace-up knit top",
         "url": "https://amzn.to/47VK8Hz"
       }
-      {
-        "label": "Pearl-color satin top",
-        "url": "https://amzn.to/4dahLJo"
-      }
-      {
-        "label": "White/blue fleece",
-        "url": "https://amzn.to/40QwrGb"
-      }
     ],
     "tags": ["winteroutfitidea", "winterclothes", "blueclothes"]
   },
-  {
     "title": "Spring coffee date outfit",
     "description": "A romantic spring outfit with light fabrics, feminine accessories, and a relaxed but elevated aesthetic. Ideal for brunch, coffee dates and a soft girl looks.",
     "images": [
