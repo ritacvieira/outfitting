@@ -1,60 +1,70 @@
 [
   {
     "title": "The CUTEST clothes for fans of blue",
-    "description": "A cozy and feminine blue outfit edit with soft textures and dreamy tones. Perfect if you love pale blue knitwear, winter layering, and cute pieces that still feel elegant.",
+    "description": "Cozy light blue clothes with soft textures and dreamy tones. Perfect if you love pale blue knitwear, winter layering, and cute pieces that still feel elegant.",
     "images": [
-      "images/blue-look-1.jpg",
-      "images/blue-look-2.jpg"
+      "images/blueclothes.jpg",
     ],
     "links": [
       {
-        "label": "Blue knit zip sweater",
-        "url": "https://example.com/affiliate-link-1"
+        "label": "Blue knit button sweater",
+        "url": "https://amzn.to/4sFfuL8"
       },
       {
         "label": "Soft pale blue scarf",
-        "url": "https://example.com/affiliate-link-2"
+        "url": "https://amzn.to/4bNmYEv"
       },
       {
         "label": "Blue lace-up knit top",
-        "url": "https://example.com/affiliate-link-3"
+        "url": "https://amzn.to/47VK8Hz"
+      }
+      {
+        "label": "Pearl-color satin top",
+        "url": "https://amzn.to/4dahLJo"
+      }
+      {
+        "label": "White/blue fleece",
+        "url": "https://amzn.to/40QwrGb"
       }
     ],
     "tags": ["winteroutfitidea", "winterclothes", "blueclothes"]
   },
   {
-    "title": "A look for a coffee date this spring",
-    "description": "A romantic spring outfit with light fabrics, feminine accessories, and a relaxed but elevated aesthetic. Ideal for brunch, coffee dates, or Pinterest-style soft girl looks.",
+    "title": "Spring coffee date outfit",
+    "description": "A romantic spring outfit with light fabrics, feminine accessories, and a relaxed but elevated aesthetic. Ideal for brunch, coffee dates and a soft girl looks.",
     "images": [
-      "images/coffee-date-1.jpg",
-      "images/coffee-date-2.jpg"
+      "images/picnic_outfit.jpeg"
     ],
     "links": [
       {
-        "label": "Light green knit top",
-        "url": "https://example.com/affiliate-link-4"
-      },
-      {
-        "label": "White flowing skirt",
-        "url": "https://example.com/affiliate-link-5"
+        "label": "White flowing long skirt",
+        "url": "https://amzn.to/4d9b36n"
       },
       {
         "label": "Floral tote bag",
-        "url": "https://example.com/affiliate-link-6"
+        "url": "https://amzn.to/3NPWYAe"
       }
     ],
     "tags": ["springoutfit", "coffeedate", "femininefashion"]
   },
   {
-    "title": "Jeans you NEED this spring",
-    "description": "Statement trousers and easy spring styling with a relaxed but trendy vibe. A great pick if you want standout bottoms that still feel wearable and aesthetic.",
+    "title": "Santorini vaction outfit",
+    "description": "Santorini vaction outfit ideas for summer.",
     "images": [
-      "images/jeans-1.jpg"
+      "santorini_outfit.jpg"
     ],
     "links": [
       {
-        "label": "Printed wide-leg jeans",
-        "url": "https://example.com/affiliate-link-7"
+        "label": "Shorts",
+        "url": " "
+      }
+      {
+        "label": "T-shirt",
+        "url": " "
+      }
+      {
+        "label": "Beach bag",
+        "url": " "
       }
     ],
     "tags": ["springstyle", "trousers", "trendingfashion"]
