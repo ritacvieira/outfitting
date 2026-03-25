@@ -1,0 +1,62 @@
+[
+  {
+    "title": "The CUTEST clothes for fans of blue",
+    "description": "A cozy and feminine blue outfit edit with soft textures and dreamy tones. Perfect if you love pale blue knitwear, winter layering, and cute pieces that still feel elegant.",
+    "images": [
+      "images/blue-look-1.jpg",
+      "images/blue-look-2.jpg"
+    ],
+    "links": [
+      {
+        "label": "Blue knit zip sweater",
+        "url": "https://example.com/affiliate-link-1"
+      },
+      {
+        "label": "Soft pale blue scarf",
+        "url": "https://example.com/affiliate-link-2"
+      },
+      {
+        "label": "Blue lace-up knit top",
+        "url": "https://example.com/affiliate-link-3"
+      }
+    ],
+    "tags": ["winteroutfitidea", "winterclothes", "blueclothes"]
+  },
+  {
+    "title": "A look for a coffee date this spring",
+    "description": "A romantic spring outfit with light fabrics, feminine accessories, and a relaxed but elevated aesthetic. Ideal for brunch, coffee dates, or Pinterest-style soft girl looks.",
+    "images": [
+      "images/coffee-date-1.jpg",
+      "images/coffee-date-2.jpg"
+    ],
+    "links": [
+      {
+        "label": "Light green knit top",
+        "url": "https://example.com/affiliate-link-4"
+      },
+      {
+        "label": "White flowing skirt",
+        "url": "https://example.com/affiliate-link-5"
+      },
+      {
+        "label": "Floral tote bag",
+        "url": "https://example.com/affiliate-link-6"
+      }
+    ],
+    "tags": ["springoutfit", "coffeedate", "femininefashion"]
+  },
+  {
+    "title": "Jeans you NEED this spring",
+    "description": "Statement trousers and easy spring styling with a relaxed but trendy vibe. A great pick if you want standout bottoms that still feel wearable and aesthetic.",
+    "images": [
+      "images/jeans-1.jpg"
+    ],
+    "links": [
+      {
+        "label": "Printed wide-leg jeans",
+        "url": "https://example.com/affiliate-link-7"
+      }
+    ],
+    "tags": ["springstyle", "trousers", "trendingfashion"]
+  }
+]
