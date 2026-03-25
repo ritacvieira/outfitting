@@ -3,20 +3,99 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>My Website</title>
+  <title>Outfitting | Aesthetic Finds</title>
   <link rel="stylesheet" href="style.css" />
 </head>
 <body>
-  <header>
-    <h1>Hello, world</h1>
-    <p>This is my free website.</p>
+  <header class="hero">
+    <nav class="navbar">
+      <div class="logo">OUTFITTING</div>
+      <div class="nav-links">
+        <a href="#shop">Shop</a>
+        <a href="#about">About</a>
+      </div>
+    </nav>
+
+    <div class="hero-content">
+      <p class="eyebrow">Curated fashion finds</p>
+      <h1>Aesthetic pieces you’ll actually want to wear</h1>
+      <p class="hero-text">
+        A simple collection of feminine, clean, satin-inspired fashion picks.
+        Perfect for outfit inspiration and affiliate recommendations.
+      </p>
+      <a class="hero-button" href="#shop">Browse picks</a>
+    </div>
   </header>
 
   <main>
-    <button id="btn">Click me</button>
-    <p id="message"></p>
+    <section class="featured" id="shop">
+      <div class="section-heading">
+        <p class="section-label">Featured edits</p>
+        <h2>Trending favorites</h2>
+      </div>
+
+      <div class="product-grid">
+        <article class="card">
+          <div class="image-box">
+            <img src="https://images.unsplash.com/photo-1529139574466-a303027c1d8b?auto=format&fit=crop&w=800&q=80" alt="Silky neutral dress">
+          </div>
+          <div class="card-content">
+            <h3>Silky Neutral Dress</h3>
+            <p>Elegant satin look for dinners, events, or soft everyday styling.</p>
+            <a href="#" target="_blank">Shop now</a>
+          </div>
+        </article>
+
+        <article class="card">
+          <div class="image-box">
+            <img src="https://images.unsplash.com/photo-1483985988355-763728e1935b?auto=format&fit=crop&w=800&q=80" alt="Minimal beige handbag">
+          </div>
+          <div class="card-content">
+            <h3>Minimal Beige Bag</h3>
+            <p>Clean and versatile accessory that works with almost every outfit.</p>
+            <a href="#" target="_blank">Shop now</a>
+          </div>
+        </article>
+
+        <article class="card">
+          <div class="image-box">
+            <img src="https://images.unsplash.com/photo-1496747611176-843222e1e57c?auto=format&fit=crop&w=800&q=80" alt="Soft cream blouse">
+          </div>
+          <div class="card-content">
+            <h3>Soft Cream Blouse</h3>
+            <p>Light, feminine, and easy to style with jeans, skirts, or trousers.</p>
+            <a href="#" target="_blank">Shop now</a>
+          </div>
+        </article>
+
+        <article class="card">
+          <div class="image-box">
+            <img src="https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?auto=format&fit=crop&w=800&q=80" alt="Gold jewelry stack">
+          </div>
+          <div class="card-content">
+            <h3>Gold Jewelry Edit</h3>
+            <p>Simple finishing pieces to make any outfit feel more polished.</p>
+            <a href="#" target="_blank">Shop now</a>
+          </div>
+        </article>
+      </div>
+    </section>
+
+    <section class="about" id="about">
+      <div class="about-box">
+        <p class="section-label">About this page</p>
+        <h2>Fashion inspiration with a soft, elevated feel</h2>
+        <p>
+          This website shares curated style finds and outfit inspiration in one place.
+          You can use it to showcase affiliate links, favorite products, seasonal edits,
+          or Pinterest-inspired collections.
+        </p>
+      </div>
+    </section>
   </main>
 
-  <script src="script.js"></script>
+  <footer class="footer">
+    <p>© 2026 Outfitting. Curated with style.</p>
+  </footer>
 </body>
 </html>
