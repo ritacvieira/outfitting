@@ -40,25 +40,25 @@
     "tags": ["springoutfit", "coffeedate", "femininefashion"]
   },
   {
-    "title": "Santorini vaction outfit",
-    "description": "Santorini vaction outfit ideas for summer.",
+    "title": "Santorini vacation outfit",
+    "description": "Santorini vacation outfit ideas for summer.",
     "images": [
       "images/santorini_outfit.jpg"
     ],
     "links": [
       {
         "label": "Shorts",
-        "url": " "
+        "url": "#"
       },
       {
         "label": "T-shirt",
-        "url": " "
+        "url": "#"
       },
       {
         "label": "Beach bag",
-        "url": " "
+        "url": "#"
       }
     ],
-    "tags": ["springstyle", "trousers", "trendingfashion"]
+    "tags": ["summeroutfit", "santorini", "vacationstyle"]
   }
 ]
