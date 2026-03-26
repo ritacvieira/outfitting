@@ -1,31 +1,41 @@
-.affiliate-link-left {
+body {
+  font-family: Arial, sans-serif;
+  background: #f7f5f3;
+  margin: 0;
+  padding: 0;
+}
+
+.topbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 16px 24px;
+  border-bottom: 1px solid #eee;
+}
+
+.brand {
   display: flex;
   align-items: center;
-  gap: 14px;
-  min-width: 0;
-}
-
-.affiliate-thumb {
-  width: 54px;
-  height: 54px;
-  border-radius: 12px;
-  object-fit: cover;
-  flex-shrink: 0;
-  border: 1px solid var(--line);
-  background: #f3efeb;
-}
-
-.affiliate-thumb-placeholder {
-  background: #f3efeb;
-}
-
-.affiliate-link-label {
-  font-weight: 600;
-  line-height: 1.35;
+  gap: 10px;
 }
 
 .brand-icon {
-  height: 40px;
-  width: auto;
-  object-fit: contain;
+  height: 32px;
+}
+
+.brand-name {
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.hero {
+  text-align: center;
+  padding: 60px 20px;
+}
+
+.posts-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 20px;
+  padding: 20px;
 }
