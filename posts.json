@@ -9,15 +9,27 @@
       {
         "label": "Blue knit button sweater",
         "url": "https://amzn.to/4sFfuL8",
-        "image": 
+        "image": "images/blue_button_sweater.jpg"
       },
       {
         "label": "Soft pale blue scarf",
-        "url": "https://amzn.to/4bNmYEv"
+        "url": "https://amzn.to/4bNmYEv",
+        "image": "images/blue_scarf.jpg"
       },
       {
         "label": "Blue lace-up knit top",
-        "url": "https://amzn.to/47VK8Hz"
+        "url": "https://amzn.to/47VK8Hz",
+        "image": "images/blue_ribbon_sweater.jpg"
+      },
+      {
+        "label": "Pearl-white satin top",
+        "url": "#",
+        "image": "images/satin_white_top.jpg"
+      },
+      {
+        "label": "White and blue fleece",
+        "url": "#",
+        "image": "images/white_blue_fleece.jpg"
       }
     ],
     "tags": ["winteroutfitidea", "winterclothes", "blueclothes"]
