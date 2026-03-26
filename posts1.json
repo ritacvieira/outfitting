@@ -1,0 +1,56 @@
+[
+  {
+    "title": "The CUTEST clothes for fans of blue",
+    "description": "Cozy light blue clothes with soft textures and dreamy tones. Perfect if you love pale blue knitwear, winter layering, and cute pieces that still feel elegant.",
+    "images": [
+      "images/blueclothes.jpg"
+    ],
+    "links": [
+      {
+        "label": "Blue knit button sweater",
+        "url": "https://amzn.to/4sFfuL8"
+      },
+      {
+        "label": "Soft pale blue scarf",
+        "url": "https://amzn.to/4bNmYEv"
+      },
+      {
+        "label": "Blue lace-up knit top",
+        "url": "https://amzn.to/47VK8Hz"
+      }
+    ],
+    "tags": ["winteroutfitidea", "winterclothes", "blueclothes"]
+  },
+  {
+    "title": "A look for a coffee date this spring",
+    "description": "A romantic spring outfit with light fabrics, feminine accessories, and a relaxed but elevated aesthetic.",
+    "images": [
+      "images/picnic_outfit.jpeg"
+    ],
+    "links": [
+      {
+        "label": "Light green knit top",
+        "url": "https://example.com/link-1"
+      },
+      {
+        "label": "White flowing skirt",
+        "url": "https://example.com/link-2"
+      }
+    ],
+    "tags": ["springoutfit", "coffeedate", "femininefashion"]
+  },
+  {
+    "title": "Jeans you NEED this spring",
+    "description": "Statement bottoms and easy spring styling with a relaxed but trendy vibe.",
+    "images": [
+      "images/santorini_outfit.jpg"
+    ],
+    "links": [
+      {
+        "label": "Printed trousers",
+        "url": "https://example.com/link-3"
+      }
+    ],
+    "tags": ["springstyle", "trousers", "trendingfashion"]
+  }
+]
