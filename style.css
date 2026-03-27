@@ -6,7 +6,6 @@ body {
   color: var(--text);
   overflow-x: hidden;
 }
-}
 
 .topbar {
   display: flex;
