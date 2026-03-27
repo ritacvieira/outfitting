@@ -11,6 +11,18 @@ body {
   color: var(--text);
   overflow-x: hidden;
 }
+.hero h1 {
+  letter-spacing: -1px;
+}
+
+.post-card-title {
+  font-size: 1.25rem;
+}
+
+.modal-info h2,
+.brand-name {
+  font-family: "Playfair Display", serif;
+}
 
 .topbar {
   display: flex;
