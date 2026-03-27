@@ -1,8 +1,11 @@
 body {
-  font-family: Arial, sans-serif;
-  background: #f7f5f3;
   margin: 0;
   padding: 0;
+  font-family: "Inter", sans-serif;
+  background: var(--bg);
+  color: var(--text);
+  overflow-x: hidden;
+}
 }
 
 .topbar {
@@ -45,10 +48,32 @@ body {
 }
 
 .posts-grid {
+  max-width: var(--max-width);
+  margin: 0 auto;
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
-  gap: 20px;
-  padding: 20px;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 26px;
+}
+
+.post-card {
+  cursor: pointer;
+  min-width: 0;
+}
+
+.post-card-image {
+  width: 100%;
+  height: 540px;
+  border-radius: var(--radius-xl);
+  overflow: hidden;
+  background: #ddd;
+  box-shadow: var(--shadow);
+}
+
+.post-card-image img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: transform 0.35s ease;
 }
 
 .affiliate-link-left {
@@ -75,4 +100,9 @@ body {
 .affiliate-link-label {
   font-weight: 600;
   line-height: 1.35;
+}
+
+img {
+  display: block;
+  max-width: 100%;
 }
