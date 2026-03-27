@@ -10,6 +10,7 @@ body {
 .topbar {
   display: flex;
   align-items: center;
+  justify-content: space-between;
   padding: 16px 24px;
   border-bottom: 1px solid #eee;
 }
@@ -32,12 +33,13 @@ body {
 }
 
 .browse-button {
+  margin-left: auto;
   padding: 12px 18px;
   background: #efebe7;
   border-radius: 16px;
   font-weight: 600;
   text-decoration: none;
-  color: black
+  color: black;
 }
 
 .hero {
